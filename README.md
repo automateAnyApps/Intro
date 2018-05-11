@@ -1,10 +1,7 @@
 # Intro
-A bit about me
-
-## Introduction  
+###A bit about me
 
 Hi there, my name is _**Mel**_!
-
 
 > Technically astute and seasoned engineering professional with over 16 years of software quality testing and analysis leadership roles with skills that translate well to software design and web development. 
 
