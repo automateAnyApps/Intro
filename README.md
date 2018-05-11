@@ -1,5 +1,5 @@
 # Intro
-### A bit about me
+### I am an eternal student.
 
 Hi there, my name is _**Mel**_!
 
